@@ -4,17 +4,31 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Case Study of OneDrop</title>
-    <meta name="description" content="Case study page of Project" />
+    <title>OneDrop - Emergency Blood Donation Platform | Case Study</title>
+    <meta name="description" content="OneDrop - Real-time blood donation platform connecting donors and recipients. Health Hackathon Winner" />
 
     <link rel="stylesheet" href="css/style.css" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Source+Sans+Pro:wght@400;600;700;900&display=swap"
       rel="stylesheet"
     />
+    <style>
+      :root {
+        --primary-color: #0066ff;
+        --secondary-color: #ff6b6b;
+        --accent-color: #00d4ff;
+        --dark-bg: #0a0e27;
+        --card-bg: #1a1f3a;
+        --text-light: #e0e0e0;
+        --text-muted: #a0a0a0;
+      }
+      * { font-family: 'Poppins', sans-serif; }
+      body { background: linear-gradient(135deg, var(--dark-bg) 0%, #1a1f3a 100%); color: var(--text-light); }
+      .btn:hover { transform: translateY(-3px); box-shadow: 0 10px 30px rgba(0, 102, 255, 0.4); transition: all 0.3s ease; }
+    </style>
   </head>
   <body>
     <header class="header">
@@ -82,16 +96,16 @@
         </div>
       </div>
     </header>
-    <section class="project-cs-hero">
-      <div class="project-cs-hero__content">
-        <h1 class="heading-primary">OneDrop</h1>
-        <div class="project-cs-hero__info">
-          <p class="text-primary">
-            A cross-platform emergency blood donation platform connecting donors and recipients in real-time. Integrated with geolocation APIs to minimize emergency response latency and built with robust notification systems for secure donor verification.
-          </p>
-        </div>
-        <div class="project-cs-hero__cta">
-          <a href="https://bloodbank-nine-phi.vercel.app/" class="btn btn--bg" target="_blank">Live Demo</a>
+    <section class="project-cs-hero" style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.15) 0%, rgba(0, 212, 255, 0.1) 100%); padding: 5rem 2rem; text-align: center;">
+      <div class="project-cs-hero__content" style="max-width: 900px; margin: 0 auto;">
+        <span style="font-size: 1rem; color: var(--accent-color); font-weight: 600; text-transform: uppercase; letter-spacing: 2px; display: block; margin-bottom: 1rem;">🏆 Health Hackathon Winner</span>
+        <h1 class="heading-primary" style="font-size: 4rem; background: linear-gradient(135deg, #ff6b6b, #0066ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 1.5rem;">OneDrop</h1>
+        <p style="font-size: 1.1rem; color: var(--text-muted); max-width: 700px; margin: 0 auto 2rem; line-height: 1.8;">
+          🩸 Emergency blood donation platform with real-time donor-recipient matching, geolocation-based search, and secure SMS/Email authentication system.
+        </p>
+        <div class="project-cs-hero__cta" style="display: flex; gap: 1rem; justify-content: center;">
+          <a href="https://bloodbank-nine-phi.vercel.app/" class="btn btn--bg" target="_blank" style="background: linear-gradient(135deg, #ff6b6b, #ff0000); padding: 1rem 2.5rem; font-weight: 600; border-radius: 8px; color: white;">🔗 Live Demo</a>
+          <a href="https://github.com/KuntrapakamJishnu/OneDrop" class="btn btn--bg" target="_blank" style="background: transparent; border: 2px solid #0066ff; color: #0066ff; padding: 1rem 2.5rem; font-weight: 600; border-radius: 8px;">💻 Source Code</a>
         </div>
       </div>
     </section>
@@ -147,69 +161,53 @@
         </div>
       </div>
     </section>
-    <footer class="main-footer">
+    <footer class="main-footer" style="background: linear-gradient(135deg, rgba(10, 14, 39, 0.95) 0%, rgba(26, 31, 58, 0.95) 100%); border-top: 2px solid rgba(0, 102, 255, 0.3); padding: 4rem 0 2rem;">
       <div class="main-container">
-        <div class="main-footer__upper">
-          <div class="main-footer__row main-footer__row-1">
-            <h2 class="heading heading-sm main-footer__heading-sm">
-              <span>Social</span>
-            </h2>
-            <div class="main-footer__social-cont">
-              <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/jishnu-k738/" title="LinkedIn">
-                <img
-                  class="main-footer__icon"
-                  src="./assets/png/linkedin-ico.png"
-                  alt="LinkedIn"
-                />
-              </a>
-              <a target="_blank" rel="noreferrer" href="https://github.com/KuntrapakamJishnu" title="GitHub">
-                <img
-                  class="main-footer__icon"
-                  src="./assets/png/github-ico.png"
-                  alt="GitHub"
-                />
-              </a>
-              <a target="_blank" rel="noreferrer" href="https://leetcode.com/KuntrapakamJishnu/" title="LeetCode">
-                <img
-                  class="main-footer__icon"
-                  src="./assets/png/twitter-ico.png"
-                  alt="LeetCode"
-                />
-              </a>
-              <a target="_blank" rel="noreferrer" href="mailto:kjishnu973@gmail.com" title="Email">
-                <img
-                  class="main-footer__icon"
-                  src="./assets/png/yt-ico.png"
-                  alt="Email"
-                />
-              </a>
-              <a target="_blank" rel="noreferrer" href="tel:+91-6305205896" title="Phone">
-                <img
-                  class="main-footer__icon main-footer__icon--mr-none"
-                  src="./assets/png/insta-ico.png"
-                  alt="Phone"
-                />
-              </a>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; margin-bottom: 3rem;">
+          <!-- Project Info -->
+          <div>
+            <h3 style="font-size: 1.5rem; font-weight: 700; color: var(--accent-color); margin-bottom: 1rem;">OneDrop</h3>
+            <p style="color: var(--text-muted); line-height: 1.6; margin-bottom: 1.5rem;">
+              Emergency blood donation platform with real-time matching and geolocation search. 🏆 Health Hackathon Winner.
+            </p>
+            <div style="display: flex; gap: 1rem; flex-direction: column;">
+              <p style="color: var(--text-light);"><strong>🔗 Live:</strong> <a href="https://bloodbank-nine-phi.vercel.app/" target="_blank" style="color: var(--accent-color);">bloodbank-nine-phi.vercel.app</a></p>
+              <p style="color: var(--text-light);"><strong>💻 Code:</strong> <a href="https://github.com/KuntrapakamJishnu/OneDrop" target="_blank" style="color: var(--accent-color);">GitHub Repo</a></p>
             </div>
           </div>
-          <div class="main-footer__row main-footer__row-2">
-            <h4 class="heading heading-sm text-lt">OneDrop</h4>
-            <p class="main-footer__short-desc">
-              Emergency blood donation platform connecting donors and recipients in real-time
-            </p>
-            <div style="margin-top: 1.5rem; font-size: 0.9rem;">
-              <p><strong>🔗 Live Link:</strong> <a href="https://bloodbank-nine-phi.vercel.app/" target="_blank" rel="noreferrer" style="color: inherit;">bloodbank-nine-phi.vercel.app</a></p>
-              <p><strong>💻 Source Code:</strong> <a href="https://github.com/KuntrapakamJishnu/OneDrop" target="_blank" rel="noreferrer" style="color: inherit;">GitHub Repository</a></p>
-              <p><strong>🏆 Achievement:</strong> Winner of Health Hackathon</p>
-            </div>
+
+          <!-- Quick Navigation -->
+          <div>
+            <h3 style="font-size: 1.2rem; font-weight: 700; color: var(--accent-color); margin-bottom: 1.5rem;">Navigation</h3>
+            <ul style="list-style: none;">
+              <li style="margin-bottom: 0.8rem;">
+                <a href="./index.html" style="color: var(--text-light); transition: color 0.3s ease; display: flex; align-items: center; gap: 0.5rem;">
+                  <span style="color: var(--accent-color);">▸</span> Back to Portfolio
+                </a>
+              </li>
+              <li style="margin-bottom: 0.8rem;">
+                <a href="./index.html#projects" style="color: var(--text-light); transition: color 0.3s ease; display: flex; align-items: center; gap: 0.5rem;">
+                  <span style="color: var(--accent-color);">▸</span> All Projects
+                </a>
+              </li>
+              <li style="margin-bottom: 0.8rem;">
+                <a href="./index.html#contact" style="color: var(--text-light); transition: color 0.3s ease; display: flex; align-items: center; gap: 0.5rem;">
+                  <span style="color: var(--accent-color);">▸</span> Get in Touch
+                </a>
+              </li>
+              <li>
+                <a href="./assets/resume.pdf" target="_blank" style="color: var(--text-light); transition: color 0.3s ease; display: flex; align-items: center; gap: 0.5rem;">
+                  <span style="color: var(--accent-color);">▸</span> Resume
+                </a>
+              </li>
+            </ul>
           </div>
         </div>
 
-        <div class="main-footer__lower">
-          &copy; Copyright 2026. Made by
-          <a rel="noreferrer" target="_blank" href="https://github.com/KuntrapakamJishnu"
-            >Kuntrapakam Jishnu</a
-          >
+        <div style="padding-top: 2rem; border-top: 1px solid rgba(0, 102, 255, 0.2); text-align: center;">
+          <p style="color: var(--text-muted); font-size: 0.95rem;">
+            &copy; 2026 Kuntrapakam Jishnu. Crafted with <span style="color: #ff6b6b;">❤</span> using modern web technologies.
+          </p>
         </div>
       </div>
     </footer>

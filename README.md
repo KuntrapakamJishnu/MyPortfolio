@@ -1,503 +1,205 @@
-# Dopefolio 🔥
+# Jishnu Kuntrapakam - Portfolio 🚀
 
-## A Blazing Fast Multipage Portfolio Template for Developers 🚀
+Welcome to my professional portfolio! I'm a **Research Development Engineer** and **Full-Stack Developer** passionate about building scalable applications with modern technologies.
 
-## [Demo Link](https://dopefolio.netlify.app) 🔗
+---
+
+## 📋 About Me
+
+I am a dedicated software engineer with expertise in:
+- **Full-Stack Development** (MERN Stack, FastAPI)
+- **AI/ML Integration** (RAG, Semantic Search, LSTM, GRU)
+- **Cloud Deployment** (AWS, Docker)
+- **Real-time Systems** (WebSockets, Geolocation APIs)
+
+**Current Position:** Research Development Engineer Intern @ IIT Dhanbad (Dec 2025 - Jan 2026)
+
+**Education:** Integrated M.Tech in Computer Science and Engineering @ Vellore Institute of Technology (VIT) - CGPA: 8.61   
+---
+
+## 🎯 Featured Projects
+
+### 1. **CampusKart AI** 🛒
+An AI-powered full-stack e-commerce platform with intelligent product recommendations and personalized search capabilities.
+
+- **Live Demo:** [https://campuskart-gamma.vercel.app/](https://campuskart-gamma.vercel.app/)
+- **GitHub:** [CampusKartAI Repository](https://github.com/KuntrapakamJishnu/CampusKartAI)
+- **Technologies:** React.js, Node.js, Express.js, MongoDB, Redis, Gemini API
+- **Features:**
+  - User authentication & authorization
+  - AI-powered product recommendations
+  - Real-time cart management
+  - Interview Intelligence module for placement prep
+  - Optimized backend with Redis caching
+
+### 2. **OneDrop** 🩸
+Emergency blood donation platform connecting donors and recipients in real-time using geolocation technology.
+
+- **Live Demo:** [https://bloodbank-nine-phi.vercel.app/](https://bloodbank-nine-phi.vercel.app/)
+- **GitHub:** [OneDrop Repository](https://github.com/KuntrapakamJishnu/OneDrop)
+- **Technologies:** React.js, Node.js, Express.js, MongoDB, Geolocation APIs
+- **Features:**
+  - Real-time donor-recipient matching
+  - Geolocation-based search
+  - SMS & Email authentication
+  - Hospital management system
+  - Push notifications for emergencies
+- **🏆 Achievement:** Winner of Health Hackathon at VIT
+
+### 3. **Doc Query AI** 📄
+Intelligent document question-answering system using Retrieval-Augmented Generation (RAG) and semantic search.
+
+- **GitHub:** [DocQueryAI Repository](https://github.com/KuntrapakamJishnu/DocQueryAI)
+- **Technologies:** Python, FastAPI, Streamlit, React.js, RAG, Semantic Search, NLP
+- **Features:**
+  - Document preprocessing & analysis
+  - Semantic search for precise information retrieval
+  - RAG-based contextual responses
+  - Multi-document support
+- **🏆 Achievement:** Finalist in Infosys Bangalore DC Program (30+ teams)
+
+---
+
+## 💻 Technical Skills
+
+### Languages
+- **Python** | **JavaScript** | **C++** | **HTML/CSS** | **SQL**
+
+### Frontend
+- **React.js** | **HTML5** | **CSS3** | **SASS**
+
+### Backend
+- **Node.js** | **Express.js** | **FastAPI** | **WebSockets**
+
+### Databases & Caching
+- **MongoDB** | **PostgreSQL** | **MySQL** | **Redis**
+
+### AI/ML
+- **LSTM** | **GRU** | **RAG** | **Semantic Search** | **NLP**
+
+### Tools & Platforms
+- **Docker** | **AWS** | **Git/GitHub** | **Postman** | **REST APIs**
+
+### Core CS
+- **Data Structures & Algorithms (DSA)** | **DBMS** | **OOP**
+
+---
+
+## 🏆 Achievements & Recognition
+
+- **1315 Contest Rating on LeetCode** - Strong problem-solving skills in competitive programming
+- **3rd Place @ VIT ECS'23** - Smart Ration Distribution Management System
+- **Health Hackathon Winner** - OneDrop blood donation platform
+- **Infosys Bangalore DC Program Finalist** - Doc Query AI among 30+ teams
+
+---
+
+## 💼 Professional Experience
+
+### Research Development Engineer Intern - IIT Dhanbad
+*December 2025 - January 2026*
+
+- Deployed Python-based traffic intelligence platform using FastAPI and Streamlit
+- Integrated real-time datasets across 60+ campus locations
+- Reduced prediction error by **15% (MAPE reduction)** with LSTM & GRU models
+- Managed 10,000+ records in PostgreSQL
+- Implemented REST APIs and WebSocket-based visualization
+- Deployed scalable backend services using Docker on AWS
+
+### Software Engineer Intern - Aatral Technologies
+*June 2024 - August 2024*
+
+- Built reusable frontend components using React.js, HTML, CSS, JavaScript
+- Integrated MySQL database for efficient data fetching
+- Optimized query performance during testing
+- Collaborated with 5-member development team
+- Improved UI consistency across modules
+
+---
+
+## 📱 Contact Information
+
+- **📧 Email:** [kjishnu973@gmail.com](mailto:kjishnu973@gmail.com)
+- **📱 Phone:** [+91-6305205896](tel:+91-6305205896)
+- **🔗 LinkedIn:** [linkedin.com/in/jishnu-k738/](https://linkedin.com/in/jishnu-k738/)
+- **💻 GitHub:** [github.com/KuntrapakamJishnu](https://github.com/KuntrapakamJishnu)
+- **📊 LeetCode:** [leetcode.com/KuntrapakamJishnu/](https://leetcode.com/KuntrapakamJishnu/)
+
+---
+
+## 🌐 Portfolio Website
+
+Explore all my projects and detailed case studies at my portfolio website built with HTML, CSS, JavaScript, and SASS.
+
+- **GitHub Repository:** [KuntrapakamJishnu/MyPortfolio](https://github.com/KuntrapakamJishnu/MyPortfolio)
+- **Project Pages:** 
+  - Resume & Experience - project-1.html
+  - CampusKart AI - project-1.html
+  - OneDrop - project-2.html
+  - Doc Query AI - project-3.html
+
+---
+
+## 📊 Portfolio Statistics
+
+| Metric | Value |
+|--------|-------|
+| Total Projects | 3+ |
+| Programming Languages | 5+ |
+| Technologies & Frameworks | 15+ |
+| Years of Experience | 2+ |
+| GitHub Contributions | Active |
+| LeetCode Rating | 1315 |
+
+---
+
+## 🚀 Current Focus
+
+- Developing scalable full-stack applications
+- Exploring advanced AI/ML integration
+- Cloud architecture and DevOps
+- Open-source contributions
+- Competitive programming
+
+---
+
+## 📄 Resume
+
+Download my full resume: [assets/resume.pdf](./assets/resume.pdf)
+
+---
+
+## ✨ Key Highlights
+
+✅ **Full-Stack Expert** - Building end-to-end applications from frontend to backend  
+✅ **AI/ML Integration** - Implementing modern AI/ML techniques in production apps  
+✅ **Cloud Deployment** - AWS, Docker, and containerized applications  
+✅ **Real-time Systems** - WebSockets, geolocation, and live data streaming  
+✅ **Performance Optimization** - Caching, database optimization, and API optimization  
+✅ **Problem Solving** - Strong algorithmic and problem-solving skills  
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on exciting projects and discussing new opportunities. Feel free to reach out!
+
+- **Email:** kjishnu973@gmail.com
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/jishnu-k738/)
+- **GitHub:** [Follow my work](https://github.com/KuntrapakamJishnu)
+
+---
+
+## 📝 License
+
+This portfolio project is open source and available under the MIT License.
+
+---
 
 <div align="center">
-  <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Dopefolio Demo" width="100%" />
-  <br>
+  <p>Made with ❤️ by Jishnu Kuntrapakam</p>
+  <p>Last Updated: May 2026</p>
 </div>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-## ( Update ): Project Achievement 🏆 
-
-**Dopefolio** has been listed as the **Hottest Frontend Tool of 2021** According to **CSS Tricks** 🥳. Thanks to all of you for supporting this project 🙌
-
-**[Link to the CSS tricks article on Dopefolio](https://css-tricks.com/hottest-front-end-tools-in-2021/#aa-58-dopefolio)**   
-
-<br/>
-
-----
-
-<br/>
-
-## Features
-
-- ### **Easy to Setup 💯** 
-- ### **Free to Use ( OpenSource ) 🥳** 
-- ### **No Additional Frameworks 🤘** 
-- ### **No Additional Libraries 🙌** 
-- ### **Multi Page 💎** 
-- ### **Fully Responsive 🚀** 
-- ### **Super Fast and Optimized for SEO ⚡** 
-- ### **Great Audits Score 🎖️** 
-
-<img src="https://i.ibb.co/1dD8Mky/Screenshot-from-2021-08-28-14-38-30.png" alt="Dopefolio Audits" width="100%" />
-
-<br/>
-<br/>
-
-## Test the template with different colors on the playground link 🚀
-
-## [Playground Link](https://dopefolio-playground.netlify.app) 🔗
-
-<div align="center">
-  <img src="https://i.postimg.cc/xjsqN9GG/ezgif-com-gif-maker-2.gif" alt="Dopefolio Playground" width="100%" />
-  <br>
-</div>
-
-<br/>
-
-----
-
-<br/>
-
-## Technologies used 🛠️
-
-- **HTML** 🚀
-- **CSS** 🚀
-- **JavaScript** 🚀
-- **SASS** 🚀
-
----
-
-<br/>
-
-## How To Use 🔧
-
-From your command line, first clone Dopefolio:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/rammcodes/dopefolio
-
-# Go into the repository
-$ cd dopefolio
-
-# Remove current origin repository
-$ git remote remove origin
-```
-
-<br/>
-
-Then you can install the dependencies
-
-Using NPM:
-
-```bash
-# Install dependencies
-$ npm install
-
-# Listen to changes in CSS Preprocessor files ( SASS files )
-$ npm run compile:scss
-```
-
-Once you run `npm run compile:scss`, then open the `index.html` inside your favorite browser or using the live server extension.
-
-<br>
-
----
-
-<br>
-
-## Template Instructions:
-
-## Step 1 - STYLES
-
-Make sure you have started the SASS to CSS compilation by running
-
-```bash
-$ npm run compile:scss
-```
-
-Change the color theme of the website.
-
-Go to `sass/abstracts/_variables.scss` and change the value of this sass variable called `$themeClrPrimary` to your preferred HEX color.
-
-```scss
-// Default value
-$themeClrPrimary: #0062b9;
-```
-
-**NOTE**: I highly recommend to checkout the [Dopefolio Playground Link](https://dopefolio-playground.netlify.app) to test the template with different colors and see which color do you like the most.
-
-<br/>
-
----
-
-<br/>
-
-## Step 2 - Homepage
-
-Go to `/index.html` and fill your information, there are 6 sections:
-
-### Header of Homepage
-
-- On `.header__logo-img`, Add your own Image, Better if the background of the image is transparent so the background can match the theme color. To remove the background of your image, you can visit remove.bg where you can upload your image and it will remove the background of it.
-- On `.header__logo-sub`, Add your own Name.
-
-```html
-<!-- **** Header of Homepage **** -->
-<header class="header">
-  <div class="header__content">
-    <div class="header__logo-container">
-      <div class="header__logo-img-cont">
-        <img
-          src="./assets/png/john-doe.png"
-          alt="Ram Maheshwari Logo Image"
-          class="header__logo-img"
-        />
-      </div>
-      <span class="header__logo-sub">John Doe</span>
-    </div>
-    <div class="header__main">
-      <ul class="header__links">
-        <li class="header__link-wrapper">
-          <a href="./" class="header__link"> Home </a>
-        </li>
-        <li class="header__link-wrapper">
-          <a href="./#about" class="header__link">About </a>
-        </li>
-        <li class="header__link-wrapper">
-          <a href="./#projects" class="header__link"> Projects </a>
-        </li>
-        <li class="header__link-wrapper">
-          <a href="./#contact" class="header__link"> Contact </a>
-        </li>
-      </ul>
-      <div class="header__main-ham-menu-cont">
-        <img
-          src="./assets/svg/ham-menu.svg"
-          alt="hamburger menu"
-          class="header__main-ham-menu"
-        />
-      </div>
-    </div>
-  </div>
-  <div class="header__sm-menu">
-    <div class="header__sm-menu-content">
-      <ul class="header__sm-menu-links">
-        <li class="header__sm-menu-link">
-          <a href="./"> Home </a>
-        </li>
-
-        <li class="header__sm-menu-link">
-          <a href="./#about"> About </a>
-        </li>
-
-        <li class="header__sm-menu-link">
-          <a href="./#projects"> Projects </a>
-        </li>
-
-        <li class="header__sm-menu-link">
-          <a href="./#contact"> Contact </a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</header>
-<!-- END Header -->
-```
-
-### Hero Section of Homepage
-
-- On `.heading-primary`, put your custom title.
-- On `.text-primary`, put a short description about yourself.
-- On `.home-hero__social-icon-link`, fill the href attribute with a link related to your social media account.
-
-```html
-<!-- **** Hero Section of Homepage **** -->
-<section class="home-hero">
-  <div class="home-hero__content">
-    <h1 class="heading-primary">Hey, My name is John Doe</h1>
-    <div class="home-hero__info">
-      <p class="text-primary">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-        tempora explicabo quae quod deserunt eius sapiente solutions for complex
-        problems
-      </p>
-    </div>
-    <div class="home-hero__cta">
-      <a href="./#projects" class="btn btn--bg">Projects</a>
-    </div>
-  </div>
-  <div class="home-hero__socials">
-    <div class="home-hero__social">
-      <a href="#" class="home-hero__social-icon-link">
-        <img
-          src="./assets/png/linkedin-ico.png"
-          alt="icon"
-          class="home-hero__social-icon"
-        />
-      </a>
-    </div>
-    <div class="home-hero__social">
-      <a href="#" class="home-hero__social-icon-link">
-        <img
-          src="./assets/png/github-ico.png"
-          alt="icon"
-          class="home-hero__social-icon"
-        />
-      </a>
-    </div>
-    <div class="home-hero__social">
-      <a href="#" class="home-hero__social-icon-link">
-        <img
-          src="./assets/png/twitter-ico.png"
-          alt="icon"
-          class="home-hero__social-icon"
-        />
-      </a>
-    </div>
-    <div class="home-hero__social">
-      <a href="#" class="home-hero__social-icon-link">
-        <img
-          src="./assets/png/yt-ico.png"
-          alt="icon"
-          class="home-hero__social-icon"
-        />
-      </a>
-    </div>
-    <div class="home-hero__social">
-      <a
-        href="#"
-        class="home-hero__social-icon-link home-hero__social-icon-link--bd-none"
-      >
-        <img
-          src="./assets/png/insta-ico.png"
-          alt="icon"
-          class="home-hero__social-icon"
-        />
-      </a>
-    </div>
-  </div>
-  <div class="home-hero__mouse-scroll-cont">
-    <div class="mouse"></div>
-  </div>
-</section>
-<!-- /END Hero Section -->
-```
-
-### About Section
-
-- On `.heading-sec__sub`, put a short description about the section.
-- On `.about__content-details-para`, put your details here and use `<strong></strong>` tag to highlight specific keywords.
-- On `.skills__skill`, mention your skill one by one.
-
-```html
-<!-- **** About Section of Homepage **** -->
-<section id="about" class="about sec-pad">
-  <div class="main-container">
-    <h2 class="heading heading-sec heading-sec__mb-med">
-      <span class="heading-sec__main">About Me</span>
-      <span class="heading-sec__sub">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-        tempora explicabo quae quod deserunt eius sapiente
-      </span>
-    </h2>
-    <div class="about__content">
-      <div class="about__content-main">
-        <h3 class="about__content-title">Get to know me!</h3>
-        <div class="about__content-details">
-          <p class="about__content-details-para">
-            Hey! It's
-            <strong>John Doe</strong>
-            and I'm a <strong> Frontend Web Developer </strong> located in Los
-            Angeles. I've done
-            <strong> remote </strong>
-            projects for agencies, consulted for startups, and collaborated with
-            talented people to create
-            <strong>digital products </strong>
-            for both business and consumer use.
-          </p>
-          <p class="about__content-details-para">
-            I'm a bit of a digital product junky. Over the years, I've used
-            hundreds of web and mobile apps in different industries and
-            verticals. Feel free to
-            <strong>contact</strong> me here.
-          </p>
-        </div>
-        <a href="./#contact" class="btn btn--med btn--theme dynamicBgClr"
-          >Contact</a
-        >
-      </div>
-      <div class="about__content-skills">
-        <h3 class="about__content-title">My Skills</h3>
-        <div class="skills">
-          <div class="skills__skill">HTML</div>
-          <div class="skills__skill">CSS</div>
-          <div class="skills__skill">JavaScript</div>
-          <div class="skills__skill">React</div>
-          <div class="skills__skill">SASS</div>
-          <div class="skills__skill">GIT</div>
-          <div class="skills__skill">Shopify</div>
-          <div class="skills__skill">Wordpress</div>
-          <div class="skills__skill">Google ADS</div>
-          <div class="skills__skill">Facebook Ads</div>
-          <div class="skills__skill">Android</div>
-          <div class="skills__skill">IOS</div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- END About Section -->
-```
-
-### Projects
-
-- On `.heading-sec__sub`, put a short description about the section.
-- `.projects__row` is the row for each project in your portfolio.
-- One `.projects__row` for each project in your portfolio ( so for example, if you have 3 projects then you need 3 `.projects__row` one by one).
-
-- Inside each `projects__row`, there are 4 main elements.
-
-  - Project Image is located at `.projects__row-img` where you can add the URL for your project mockup/image. You can use websites like [Media Modifier](https://mediamodifier.com/) and [SmartMockups](https://smartmockups.com) to generate mockups for free. Just make sure to crop the extra white space around your mockup so the mockups can look bigger and the size of the mockup file will be less.
-
-  - `.projects__row-content-title` is where you need to add your Project title.
-  - `.projects__row-content-desc` is where you need to add a short 2-3 lines description of your project. As there's going to be a separate page for each project so there you can add all the details for each project on the specific project page.
-  - The Anchor tag ( **Case Study** button) on press will take you to the details page for each project ( For example: If you click the **Case Study** button of Project 1 then it will take you to the `project-1.html` file where you will have all the details about that particular project).
-
-Currently, I have already added a separate for each project ( considering there are 3 projects ) the file names are `project-1.html`, `project-2.html`, and `project-3.html`. They all contain the same code only the project title, description and image will change. If you like to add more projects then you can just create a new file for it and paste the same code that we have in `project-1.html` as the code is going to be the same and the only thing that you need to change is the data inside each project.
-
-```html
-<!-- **** Projects Section of Homepage **** -->
-<section id="projects" class="projects sec-pad">
-  <div class="main-container">
-    <h2 class="heading heading-sec heading-sec__mb-bg">
-      <span class="heading-sec__main">Projects</span>
-      <span class="heading-sec__sub">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-        tempora explicabo quae quod deserunt eius sapiente
-      </span>
-    </h2>
-
-    <div class="projects__content">
-      <div class="projects__row">
-        <div class="projects__row-img-cont">
-          <img
-            src="./assets/jpeg/project-mockup-example.jpeg"
-            alt="Software Screenshot"
-            class="projects__row-img"
-            loading="lazy"
-          />
-        </div>
-        <div class="projects__row-content">
-          <h3 class="projects__row-content-title">Project 1</h3>
-          <p class="projects__row-content-desc">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-            tempora, explicabo quae quod deserunt eius sapiente praesentium.
-          </p>
-          <a
-            href="./project-1.html"
-            class="btn btn--med btn--theme dynamicBgClr"
-            target="_blank"
-            >Case Study</a
-          >
-        </div>
-      </div>
-      <div class="projects__row">
-        <div class="projects__row-img-cont">
-          <img
-            src="./assets/jpeg/project-mockup-example.jpeg"
-            alt="Software Screenshot"
-            class="projects__row-img"
-            loading="lazy"
-          />
-        </div>
-        <div class="projects__row-content">
-          <h3 class="projects__row-content-title">Project 2</h3>
-          <p class="projects__row-content-desc">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-            tempora, explicabo quae quod deserunt eius sapiente praesentium.
-          </p>
-          <a
-            href="./project-2.html"
-            class="btn btn--med btn--theme dynamicBgClr"
-            target="_blank"
-            >Case Study</a
-          >
-        </div>
-      </div>
-      <div class="projects__row">
-        <div class="projects__row-img-cont">
-          <img
-            src="./assets/jpeg/project-mockup-example.jpeg"
-            alt="Software Screenshot"
-            class="projects__row-img"
-            loading="lazy"
-          />
-        </div>
-        <div class="projects__row-content">
-          <h3 class="projects__row-content-title">Project 3</h3>
-          <p class="projects__row-content-desc">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-            tempora, explicabo quae quod deserunt eius sapiente praesentium.
-          </p>
-          <a
-            href="./project-3.html"
-            class="btn btn--med btn--theme dynamicBgClr"
-            target="_blank"
-            >Case Study</a
-          >
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- END Projects Section -->
-```
-
-### Contact Section
-
-- On `.heading-sec__sub`, put a short description about the section.
-- `.contact__form-field` is the field inside form. Currently, there are 3 fields but you can add more fields as per your need but just make sure to change the name of **label** and **input/textarea** inside it.
-
-If you like to know how to submit forms so you can receive the form details in your email then highly recommend using **formspree.io** as it's easier to set up and free to use. If you are using **Netlify** to host the site then Netlify has an inbuilt form receiver which you can use instead of **formspree**.
-
-```html
-<!-- **** Contact Section of Homepage **** -->
-<section id="contact" class="contact sec-pad dynamicBg">
-  <div class="main-container">
-    <h2 class="heading heading-sec heading-sec__mb-med">
-      <span class="heading-sec__main heading-sec__main--lt">Contact</span>
-      <span class="heading-sec__sub heading-sec__sub--lt">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-        tempora explicabo quae quod deserunt eius sapiente
-      </span>
-    </h2>
-    <div class="contact__form-container">
-      <form action="#" class="contact__form">
-        <div class="contact__form-field">
-          <label class="contact__form-label" for="name">Name</label>
-          <input
-            required
-            placeholder="Enter Your Name"
-            type="text"
-            class="contact__form-input"
-            name="name"
-            id="name"
-          />
-        </div>
-        <div class="contact__form-field">
-          <label class="contact__form-label" for="email">Email</label>
-          <input
-            required
-            placeholder="Enter Your Email"
-            type="text"
-            class="contact__form-input"
-            name="email"
-            id="email"
-          />
-        </div>
-        <div class="contact__form-field">
           <label class="contact__form-label" for="message">Message</label>
           <textarea
             required

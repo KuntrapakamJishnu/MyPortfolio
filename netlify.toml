@@ -1,0 +1,12 @@
+# Netlify configuration for static site
+# No build command needed - serving static HTML/CSS/JS files
+
+[build]
+  command = "echo 'This is a static site - no build needed'"
+  publish = "."
+
+# Redirect all non-matching routes to index.html for SPA support
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

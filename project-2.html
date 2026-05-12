@@ -112,13 +112,25 @@
     <section class="project-details">
       <div class="main-container">
         <div class="project-details__content">
-          <div class="project-details__showcase-img-cont">
-            <img
-              src="./assets/jpeg/project-mockup-example.jpeg"
-              alt="Project Image"
-              class="project-details__showcase-img"
-            />
+          <div class="project-details__showcase-img-cont" style="background: linear-gradient(135deg, #ff6b6b 0%, #ff1744 100%); border-radius: 15px; padding: 4rem 2rem; text-align: center; min-height: 400px; display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden;">
+            <div style="position: absolute; inset: 0; background: radial-gradient(circle at 30% 30%, rgba(255,255,255,0.15) 0%, transparent 50%), radial-gradient(circle at 70% 70%, rgba(255,212,0,0.1) 0%, transparent 50%); pointer-events: none;"></div>
+            <div style="position: relative; z-index: 1; text-align: center; max-width: 500px;">
+              <div style="font-size: 6rem; margin-bottom: 2rem; animation: float 3s ease-in-out infinite;">🩸</div>
+              <h3 style="font-size: 2.5rem; color: white; font-weight: 800; margin-bottom: 1rem;">OneDrop</h3>
+              <p style="font-size: 1.2rem; color: rgba(255,255,255,0.9); margin-bottom: 1.5rem; line-height: 1.6;">Emergency Blood Donation Platform</p>
+              <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 2rem;">
+                <div style="background: rgba(255,255,255,0.15); border: 2px solid rgba(255,255,255,0.3); padding: 1rem 1.5rem; border-radius: 10px; color: white; font-weight: 600;">📍 Geolocation</div>
+                <div style="background: rgba(255,255,255,0.15); border: 2px solid rgba(255,255,255,0.3); padding: 1rem 1.5rem; border-radius: 10px; color: white; font-weight: 600;">⚡ Real-Time</div>
+                <div style="background: rgba(255,255,255,0.15); border: 2px solid rgba(255,255,255,0.3); padding: 1rem 1.5rem; border-radius: 10px; color: white; font-weight: 600;">🔐 Secure Auth</div>
+              </div>
+            </div>
           </div>
+          <style>
+            @keyframes float {
+              0%, 100% { transform: translateY(0px); }
+              50% { transform: translateY(-20px); }
+            }
+          </style>
           <div class="project-details__content-main">
             <div class="project-details__desc">
               <h3 class="project-details__content-title">Project Overview</h3>
